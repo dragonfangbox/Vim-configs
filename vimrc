@@ -30,4 +30,6 @@ set wildmenu
 set number relativenumber
 set cursorline
 
+set ignorecase
+
 colorscheme habamax 
