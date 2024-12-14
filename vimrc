@@ -29,6 +29,7 @@ set wildmenu
 
 set number relativenumber
 set cursorline
+set cursorcolumn
 
 set ignorecase
 
