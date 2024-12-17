@@ -20,6 +20,7 @@ set belloff=all
 
 set autoindent
 set smartindent
+set tabstop = 4
 set nowrap
 
 set incsearch
