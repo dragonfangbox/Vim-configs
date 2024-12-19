@@ -13,7 +13,10 @@ let mapleader = " "
 
 " split vertically
 :map <leader>ss  :vs<Return>
- 
+
+" quick savev
+:map <leader>w :w<Return>
+
 " general configs
 syntax on
 
