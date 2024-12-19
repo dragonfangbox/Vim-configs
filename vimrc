@@ -11,8 +11,9 @@ let mapleader = " "
 " go to file explorerer
 :map <leader>ff :E<Return>
 
-" autocomplete function names/variables
-" add something here idk whta to put ^^
+" split vertically
+:map <leader>ss  :vs<Return>
+ 
 " general configs
 syntax on
 
