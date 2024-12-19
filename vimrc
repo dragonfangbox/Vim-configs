@@ -14,7 +14,7 @@ let mapleader = " "
 " split vertically
 :map <leader>ss  :vs<Return>
 
-" quick savev
+" quick save
 :map <leader>w :w<Return>
 
 " general configs
