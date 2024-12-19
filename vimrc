@@ -33,4 +33,6 @@ set cursorline
 
 set ignorecase
 
+set splitright
+
 colorscheme habamax 
