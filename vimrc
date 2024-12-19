@@ -17,7 +17,8 @@ let mapleader = " "
 " general configs
 syntax on
 
-set belloff=all
+set noerrorbells
+set novisualbell
 
 set autoindent
 set smartindent
